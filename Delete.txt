@@ -3,3 +3,4 @@ ibrismi me ponovo
 ddao nesto novo
 
 ovo sam doda s githuba
+promjene u folderu na desktopu
